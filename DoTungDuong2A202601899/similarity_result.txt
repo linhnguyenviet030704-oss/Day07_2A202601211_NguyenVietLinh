@@ -1,0 +1,21 @@
+Backend nhung: text-embedding-3-small
+
+Cap 1: score=0.8231
+  A: Thư viện mở cửa từ 7 giờ sáng đến 9 giờ tối các ngày trong tuần.
+  B: Thư viện hoạt động từ 7h sáng tới 9h tối, tất cả các ngày trong tuần.
+
+Cap 2: score=0.9905
+  A: Python is a high-level programming language.
+  B: Python is a high level programming language.
+
+Cap 3: score=0.5551
+  A: Học phí phải đóng trước khi bắt đầu học kỳ mới.
+  B: Sinh viên cần thanh toán học phí đúng hạn quy định.
+
+Cap 4: score=0.4060
+  A: Thư viện cho sinh viên mượn sách và tài liệu học tập.
+  B: Ký túc xá có quy định về giờ giới nghiêm cho sinh viên nội trú.
+
+Cap 5: score=0.1948
+  A: Con mèo đang ngủ trên ghế sofa.
+  B: Học bổng khuyến khích học tập dành cho sinh viên có thành tích tốt.

@@ -1,0 +1,14 @@
+=== hus-mim-dam-bao-tai-chinh (2445 chars) ===
+  fixed_size: count=6, avg_len=449
+  by_sentences: count=6, avg_len=405
+  recursive: count=9, avg_len=271
+
+=== hus-mim-thong-tin-chung-dao-tao (17036 chars) ===
+  fixed_size: count=38, avg_len=497
+  by_sentences: count=23, avg_len=737
+  recursive: count=51, avg_len=333
+
+=== ussh-thong-bao-hoc-phi-2025-2026 (10948 chars) ===
+  fixed_size: count=25, avg_len=486
+  by_sentences: count=25, avg_len=435
+  recursive: count=26, avg_len=419

@@ -1,0 +1,49 @@
+=== hus_university/hus-mim-cau-hoi-thuong-gap (5510 chars) ===
+  FixedSizeChunker        : 13 chunks, avg_len=470
+  DocumentStructureChunker: 12 chunks, avg_len=456
+
+=== hus_university/hus-mim-dam-bao-tai-chinh (2445 chars) ===
+  FixedSizeChunker        : 6 chunks, avg_len=449
+  DocumentStructureChunker: 6 chunks, avg_len=405
+
+=== hus_university/hus-mim-dieu-kien-ho-tro-sinh-vien (4977 chars) ===
+  FixedSizeChunker        : 11 chunks, avg_len=498
+  DocumentStructureChunker: 11 chunks, avg_len=448
+
+=== hus_university/hus-mim-nghien-cuu-khoa-hoc-sinh-vien (5004 chars) ===
+  FixedSizeChunker        : 12 chunks, avg_len=463
+  DocumentStructureChunker: 10 chunks, avg_len=499
+
+=== hus_university/hus-mim-phuong-phap-hoc-tap-hoc-bong (8945 chars) ===
+  FixedSizeChunker        : 20 chunks, avg_len=495
+  DocumentStructureChunker: 17 chunks, avg_len=523
+
+=== hus_university/hus-mim-thong-tin-chung-dao-tao (17036 chars) ===
+  FixedSizeChunker        : 38 chunks, avg_len=497
+  DocumentStructureChunker: 36 chunks, avg_len=470
+
+=== ussh_university/ussh-cam-nang-su-dung-thu-vien-lic (7864 chars) ===
+  FixedSizeChunker        : 18 chunks, avg_len=484
+  DocumentStructureChunker: 40 chunks, avg_len=193
+
+=== ussh_university/ussh-infographic-quy-che-dao-tao (5983 chars) ===
+  FixedSizeChunker        : 14 chunks, avg_len=474
+  DocumentStructureChunker: 30 chunks, avg_len=195
+
+=== ussh_university/ussh-ktx-dhqghn-quy-dinh-chung (3933 chars) ===
+  FixedSizeChunker        : 9 chunks, avg_len=481
+  DocumentStructureChunker: 11 chunks, avg_len=356
+
+=== ussh_university/ussh-nghi-dinh-mien-giam-hoc-phi (4873 chars) ===
+  FixedSizeChunker        : 11 chunks, avg_len=488
+  DocumentStructureChunker: 25 chunks, avg_len=191
+
+=== ussh_university/ussh-quy-che-dao-tao-dai-hoc (8060 chars) ===
+  FixedSizeChunker        : 18 chunks, avg_len=495
+  DocumentStructureChunker: 43 chunks, avg_len=185
+
+=== ussh_university/ussh-thong-bao-hoc-phi-2025-2026 (10948 chars) ===
+  FixedSizeChunker        : 25 chunks, avg_len=486
+  DocumentStructureChunker: 55 chunks, avg_len=196
+
+TONG: FixedSizeChunker=195 chunks | DocumentStructureChunker=296 chunks

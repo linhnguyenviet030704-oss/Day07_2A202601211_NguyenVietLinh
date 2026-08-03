@@ -12,8 +12,10 @@ from src.embeddings import (
     EMBEDDING_PROVIDER_ENV,
     LOCAL_EMBEDDING_MODEL,
     OPENAI_EMBEDDING_MODEL,
+    VOYAGE_EMBEDDING_MODEL,
     LocalEmbedder,
     OpenAIEmbedder,
+    RequestEmbedder,
     _mock_embed,
 )
 
@@ -37,6 +39,12 @@ def _select_embedder():
             return OpenAIEmbedder(model_name=os.getenv("OPENAI_EMBEDDING_MODEL", OPENAI_EMBEDDING_MODEL))
         except Exception:
             print("OpenAI embedder không sẵn sàng; tạm dùng mock.")
+            return _mock_embed
+    if provider == "voyage":
+        try:
+            return RequestEmbedder(model_name=os.getenv("VOYAGE_EMBEDDING_MODEL", VOYAGE_EMBEDDING_MODEL))
+        except Exception:
+            print("Voyage embedder khÃ´ng sáºµn sÃ ng; táº¡m dÃ¹ng mock.")
             return _mock_embed
     return _mock_embed
 

@@ -1,0 +1,6 @@
+{
+  "name": "RAG Intelligence Workspace",
+  "description": "Giao diện Chatbot RAG thông minh với quy trình Segmentation, Embedding tùy chỉnh, Retrieving options và thẻ hiển thị độ tương đồng (similarity = 1 - distance).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1927 @@
+{
+  "data_dir": "data",
+  "source_count": 29,
+  "top_k": 3,
+  "evaluations": [
+    {
+      "chunker": "recursive_500",
+      "retriever": "bm25",
+      "chunk_count": 261,
+      "avg_chunk_length": 385.1,
+      "precision_at_k": 0.667,
+      "avg_score": 10.236,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 9.644921843817146,
+          "top_results": [
+            {
+              "score": 10.944,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "- Chi tiết về các chương trình học bổng tài trợ sinh viên xem **TẠI ĐÂY.** (https://sv-ctt.hust.edu.vn/#/hoc-bong) ### 4. Học bổng trao đổi sinh viên quốc tế"
+            },
+            {
+              "score": 9.325,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| STT | Tài liệu | Ngày đăng trên nguồn | |---:|---|---| | 1 | [Học bổng](01-hoc-bong.md) | 2024-06-13 11:12:13 | | 2 | [Hướng dẫn Hồ sơ chế độ chính sách miễn giảm học phí, vay vố"
+            },
+            {
+              "score": 8.666,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 19 | [Hướng dẫn chụp, công chứng và rút học bạ trong hồ sơ sinh viên](19-huong-dan-chup-cong-chung-va-rut-hoc-ba-trong-ho-so-sinh-vien.md) | 2023-07-05 15:57:45 | | 20 | [Mức học"
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 12.063992872690525,
+          "top_results": [
+            {
+              "score": 16.081,
+              "source": "data\\k3_university\\course-registration.md",
+              "preview": "--- doc_id: k3-course-registration title: Đăng ký học phần audience: student # student | faculty | staff | all department: academic-affairs language: vi source_url: https://example"
+            },
+            {
+              "score": 11.76,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "- (2) Tham gia hoạt động xây dựng kế hoạch bản thân: https://ctsv.hust.edu.vn/#/hoat-dong/9452/xay-dung-ke-hoach-hoc-tap-va-chi-tieu-cho-hoc-ky-2023-2 - (3) Tham gia hoạt động rèn "
+            },
+            {
+              "score": 8.351,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 19 | [Hướng dẫn chụp, công chứng và rút học bạ trong hồ sơ sinh viên](19-huong-dan-chup-cong-chung-va-rut-hoc-ba-trong-ho-so-sinh-vien.md) | 2023-07-05 15:57:45 | | 20 | [Mức học"
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 8.469047120733764,
+          "top_results": [
+            {
+              "score": 9.445,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "6. Biểu mẫu về xét nhận đồ án, khóa luận tốt nghiệp: **Xem tại đây. ** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-"
+            },
+            {
+              "score": 8.119,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 19 | [Hướng dẫn chụp, công chứng và rút học bạ trong hồ sơ sinh viên](19-huong-dan-chup-cong-chung-va-rut-hoc-ba-trong-ho-so-sinh-vien.md) | 2023-07-05 15:57:45 | | 20 | [Mức học"
+            },
+            {
+              "score": 7.843,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| STT | Tài liệu | Ngày đăng trên nguồn | |---:|---|---| | 1 | [Học bổng](01-hoc-bong.md) | 2024-06-13 11:12:13 | | 2 | [Hướng dẫn Hồ sơ chế độ chính sách miễn giảm học phí, vay vố"
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 6.419318212890255,
+          "top_results": [
+            {
+              "score": 7.214,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 3 | [Cấp giấy tờ cho sinh viên (Giấy giới thiệu, giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt...)](03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-g"
+            },
+            {
+              "score": 6.313,
+              "source": "data\\k3_university\\library-services.md",
+              "preview": "--- doc_id: k3-library-services title: Dịch vụ thư viện audience: all # student | faculty | staff | all department: library language: vi source_url: https://example.edu/thu-vien/di"
+            },
+            {
+              "score": 5.731,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| STT | Tài liệu | Ngày đăng trên nguồn | |---:|---|---| | 1 | [Học bổng](01-hoc-bong.md) | 2024-06-13 11:12:13 | | 2 | [Hướng dẫn Hồ sơ chế độ chính sách miễn giảm học phí, vay vố"
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 14.58133845095508,
+          "top_results": [
+            {
+              "score": 21.941,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 3 | [Cấp giấy tờ cho sinh viên (Giấy giới thiệu, giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt...)](03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-g"
+            },
+            {
+              "score": 11.631,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "Sinh viên đăng nhập vào tài khoản cá nhân trên hệ thống cổng thông tin sinh viên **ctsv.hust.edu.vn (https://ctsv.hust.edu.vn/#/xin-cap-giay (https://ctsv.hust.edu.vn/#/xin-cap-gia"
+            },
+            {
+              "score": 10.172,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\19-huong-dan-chup-cong-chung-va-rut-hoc-ba-trong-ho-so-sinh-vien.md",
+              "preview": "- Các bạn có thể vào mục Hồ sơ sinh viên để tải bản mềm ảnh chụp học bạ do các bạn đã tải lên hệ thống khi khai hồ sơ nhập học trực tuyến tại đây: https://ctsv.hust.edu.vn/#/cap-nh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chunker": "fixed_300",
+      "retriever": "bm25",
+      "chunk_count": 409,
+      "avg_chunk_length": 293.3,
+      "precision_at_k": 0.467,
+      "avg_score": 10.044,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 8.518951630866255,
+          "top_results": [
+            {
+              "score": 9.019,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": " viên xem **TẠI ĐÂY** (https://husteduvn-my.sharepoint.com/:b:/g/personal/khai_tranquang_hust_edu_vn1/EbEKhfFyCe9CvHP86a1I098BVsIOPCj_oUIwYXEZoZx5Vw?e=hUb8b0); - Chi tiết về các ch"
+            },
+            {
+              "score": 8.59,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "(19-huong-dan-chup-cong-chung-va-rut-hoc-ba-trong-ho-so-sinh-vien.md) | 2023-07-05 15:57:45 | | 20 | [Mức học phí các chương trình đào tạo chính quy trong học kỳ 1 năm học 2023-202"
+            },
+            {
+              "score": 7.948,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "t.hust.edu.vn/#/hoc-bong) ### 4. Học bổng trao đổi sinh viên quốc tế Với mục tiêu đẩy mạnh quốc tế hóa môi trường giáo dục, ĐHBK Hà Nội không chỉ tăng cường tiếp nhận giảng viên, s"
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 11.507820624067275,
+          "top_results": [
+            {
+              "score": 15.184,
+              "source": "data\\k3_university\\course-registration.md",
+              "preview": "--- doc_id: k3-course-registration title: Đăng ký học phần audience: student # student | faculty | staff | all department: academic-affairs language: vi source_url: https://example"
+            },
+            {
+              "score": 10.985,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "hoạch bản thân: https://ctsv.hust.edu.vn/#/hoat-dong/9452/xay-dung-ke-hoach-hoc-tap-va-chi-tieu-cho-hoc-ky-2023-2 - (3) Tham gia hoạt động rèn luyện ý thức tự học https://ctsv.hust"
+            },
+            {
+              "score": 8.354,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "(19-huong-dan-chup-cong-chung-va-rut-hoc-ba-trong-ho-so-sinh-vien.md) | 2023-07-05 15:57:45 | | 20 | [Mức học phí các chương trình đào tạo chính quy trong học kỳ 1 năm học 2023-202"
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.3333333333333333,
+          "avg_score": 9.144624175389666,
+          "top_results": [
+            {
+              "score": 10.638,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "u-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-phi) ### III. Giải quyết thắc mắc 1. Với công tác đào tạo: xem hướng dẫn **TẠI ĐÂY** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/hu"
+            },
+            {
+              "score": 8.534,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "(19-huong-dan-chup-cong-chung-va-rut-hoc-ba-trong-ho-so-sinh-vien.md) | 2023-07-05 15:57:45 | | 20 | [Mức học phí các chương trình đào tạo chính quy trong học kỳ 1 năm học 2023-202"
+            },
+            {
+              "score": 8.262,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\09-huong-dan-quy-trinh-thuc-hien-mot-so-thu-tuc-thuong-gap.md",
+              "preview": "# LIÊN HỆ các thắc mắc sẽ gửi qua email theo hướng dẫn **TẠI ĐÂY** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-phi)"
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 6.604072092702061,
+          "top_results": [
+            {
+              "score": 7.143,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "y giới thiệu, giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt...)](03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-giay-vay-von-ngan-hang-giay-lam.md) | "
+            },
+            {
+              "score": 6.982,
+              "source": "data\\k3_university\\library-services.md",
+              "preview": "--- doc_id: k3-library-services title: Dịch vụ thư viện audience: all # student | faculty | staff | all department: library language: vi source_url: https://example.edu/thu-vien/di"
+            },
+            {
+              "score": 5.687,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "04-huong-dan-su-dung-thu-vien-ta-quang-buu.md) | 2021-09-14 10:53:05 | | 5 | [Hướng dẫn sử dụng phần mềm Office 365 và học trực tuyến; sử dụng hệ thống email do Trường cấp](05-huon"
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 14.446629131475909,
+          "top_results": [
+            {
+              "score": 21.633,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "y giới thiệu, giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt...)](03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-giay-vay-von-ngan-hang-giay-lam.md) | "
+            },
+            {
+              "score": 11.554,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "tsv.hust.edu.vn/#/xin-cap-giay (https://ctsv.hust.edu.vn/#/xin-cap-giay)) hoặc đăng ký trên App iCTSV (Dịch vụ công) **để đăng ký nhận giấy vay vốn, hệ thống sẽ tự động hẹn lịch tr"
+            },
+            {
+              "score": 10.153,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "sinh viên **[Hồ sơ cá nhân]** Đăng ký cấp giấy tờ hoặc sửa thông tin SV **tại đây** (https://sv-ctt.hust.edu.vn/#/xin-cap-giay) Thắc mắc về việc cấp giấy tờ **tại đây** (https://ct"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chunker": "sentence_3",
+      "retriever": "hybrid",
+      "chunk_count": 436,
+      "avg_chunk_length": 228.6,
+      "precision_at_k": 0.467,
+      "avg_score": 0.522,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 0.5843461950270492,
+          "top_results": [
+            {
+              "score": 0.753,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 14 | [Cẩm nang sinh viên và Cẩm nang Phòng tư vấn](14-cam-nang-sinh-vien-va-cam-nang-phong-tu-van.md) | 2024-03-26 17:19:49 | | 15 | [Hướng dẫn tổ chức đánh giá kết quả rèn luyện"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 17 | [PHÒNG TƯ VẤN HỌC TẬP & TÂM LÝ SINH VIÊN](17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md) | 2023-06-03 12:01:12 | | 18 | [Hướng dẫn tìm nhà trọ](18-huong-dan-tim-nha-tro.md) | "
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\13-lien-he-giai-dap-thac-mac-lam-gi-o-dau.md",
+              "preview": "- Tiếp nhận đăng ký tổ chức các hoạt động ngoại khóa cho sinh viên trong khuôn viên Trường. - Tiếp nhận và hỗ trợ sinh viên làm thủ tục thành lập câu lạc bộ sinh viên. - Chỉnh sửa "
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 0.47045537620529365,
+          "top_results": [
+            {
+              "score": 0.5,
+              "source": "data\\k3_university\\course-registration.md",
+              "preview": "source_url: https://example.edu/hoc-vu/dang-ky-hoc-phan retrieved_at: 2026-08-02 document_version: \"2026.1\""
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "Chi tiết Quy định về việc xét cấp học bổng KKHT (áp dụng từ năm học 2023-2024) sinh viên xem **TẠI ĐÂY.** (https://husteduvn-my.sharepoint.com/:b:/g/personal/khai_tranquang_hust_ed"
+            },
+            {
+              "score": 0.411,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\05-huong-dan-su-dung-phan-mem-office-365-va-hoc-truc-tuyen-su-dung-he-thong-email-do-truong-c.md",
+              "preview": "> Nhóm nội dung: Sổ tay SV ## Nội dung Hiện tại các địa điểm trong khuôn viên giảng đường của Trường Đại học Bách khoa Hà Nội đã được phủ sóng wifi để phục vụ cho việc giảng dạy và"
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.3333333333333333,
+          "avg_score": 0.49411035674523557,
+          "top_results": [
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "2. Biểu mẫu học tập: **Xem tại đây. ** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-phi)"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\20-muc-hoc-phi-cac-chuong-trinh-dao-tao-chinh-quy-trong-hoc-ky-1-nam-hoc-2023-2024.md",
+              "preview": "**Chế độ miễn, giảm học phí** Chế độ miễn, giảm học phí được thực hiện theo Quy định ban hành kèm theo Quyết định số 5776/QĐ-ĐHBK ngày 18 tháng 7 năm 2023 của Giám đốc Đại học Bách"
+            },
+            {
+              "score": 0.482,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "Chuyên viên Giang Hương (316-C1)"
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.0,
+          "avg_score": 0.5345023748219254,
+          "top_results": [
+            {
+              "score": 0.604,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "3. Sinh viên là thành viên của hộ gia đình có mức thu nhập bình quân đầu người tối đa bằng 150% mức thu nhập bình quân đầu người của hộ gia đình nghèo theo quy định của Nhà nước. 4"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\k3_university\\library-services.md",
+              "preview": "source_url: https://example.edu/thu-vien/dich-vu retrieved_at: 2026-08-02 document_version: \"2026.1\""
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "Bạn tham khảo cách khiếu nại** tại đây! (https://www.facebook.com/ictsv.hust/photos/a.353908892774864/382030623296024/)** **Với các Minh chứng liên quan đến kết quả học tập, Ban CT"
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 0.5273495153115436,
+          "top_results": [
+            {
+              "score": 0.582,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\19-huong-dan-chup-cong-chung-va-rut-hoc-ba-trong-ho-so-sinh-vien.md",
+              "preview": "- B1: Bạn đăng ký công chứng tại đây: https://ctsv.hust.edu.vn/#/viet-giay/30_HOSO (https://ctsv.hust.edu.vn/#/viet-giay/30_HOSO), đăng nhập bằng tài khoản email trường cấp. - B2: "
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 3 | [Cấp giấy tờ cho sinh viên (Giấy giới thiệu, giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt...)](03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-g"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "Đối tượng được nhận hỗ trợ chi phí học tập: **Sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo theo quy định của Nhà nước **2. Mức hỗ trợ chi phí học tập: **Bằng 60"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chunker": "recursive_500",
+      "retriever": "hybrid",
+      "chunk_count": 261,
+      "avg_chunk_length": 385.1,
+      "precision_at_k": 0.467,
+      "avg_score": 0.51,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 0.5738095110856251,
+          "top_results": [
+            {
+              "score": 0.721,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 21 | [Hướng dẫn triển khai các vấn đề liên quan đến CLB Sinh viên](21-huong-dan-trien-khai-cac-van-de-lien-quan-den-clb-sinh-vien.md) | 2023-12-29 13:53:17 |"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "- Chi tiết về các chương trình học bổng tài trợ sinh viên xem **TẠI ĐÂY.** (https://sv-ctt.hust.edu.vn/#/hoc-bong) ### 4. Học bổng trao đổi sinh viên quốc tế"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\rag_system_design.md",
+              "preview": "Xây dựng một hệ thống tạo văn bản tăng cường truy xuất (retrieval-augmented generation - RAG) để tìm các tài liệu nội bộ có liên quan trước khi đưa ra câu trả lời. Trợ lý nên giảm "
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 0.5194552216901491,
+          "top_results": [
+            {
+              "score": 0.558,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "*+6 điểm từ tiêu chí tuân thủ kỷ luật học tập.* Để được điểm này chỉ cần bạn không bị cấm thi các học phần trong học kỳ. +* 6 điểm* từ làm bài kiểm tra quy chế. Các bạn xem chi tiế"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\k3_university\\course-registration.md",
+              "preview": "--- doc_id: k3-course-registration title: Đăng ký học phần audience: student # student | faculty | staff | all department: academic-affairs language: vi source_url: https://example"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md",
+              "preview": "Tư vấn, gỡ rối và hỗ trợ giải quyết những vấn đề liên quan tới học tập, tâm lý, sức khỏe sinh sản, giới tính,... của sinh viên. Hướng dẫn, đào tạo kỹ năng sống thông qua những buổi"
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.3333333333333333,
+          "avg_score": 0.47659846861163413,
+          "top_results": [
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "6. Biểu mẫu về xét nhận đồ án, khóa luận tốt nghiệp: **Xem tại đây. ** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\05-huong-dan-su-dung-phan-mem-office-365-va-hoc-truc-tuyen-su-dung-he-thong-email-do-truong-c.md",
+              "preview": "Sinh viên đặc biệt lưu ý **ĐỌC KỸ CÁC HƯỚNG DẪN TẠI MỤC 5** để có thể cài đặt và sử dụng phần mềm MS TEAMS **PHỤC VỤ CHO VIỆC HỌC TẬP TRỰC TUYẾN** trong thời gian còn thực hiện giã"
+            },
+            {
+              "score": 0.43,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 19 | [Hướng dẫn chụp, công chứng và rút học bạ trong hồ sơ sinh viên](19-huong-dan-chup-cong-chung-va-rut-hoc-ba-trong-ho-so-sinh-vien.md) | 2023-07-05 15:57:45 | | 20 | [Mức học"
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.3333333333333333,
+          "avg_score": 0.48542045121067556,
+          "top_results": [
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 3 | [Cấp giấy tờ cho sinh viên (Giấy giới thiệu, giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt...)](03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-g"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "hue.nguyenkim@hust.edu.vn (mailto:hue.nguyenkim@hust.edu.vn) Đơn cần nộp trực tiếp tại phòng 202A-C1, chuyên viên tiếp nhận: Nguyễn Kim Huệ Đơn chuyển trường trong nước tại đây (ht"
+            },
+            {
+              "score": 0.456,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "2. Qui định ngoại ngữ áp dụng từ khóa K68: **xem tại đây (https://ctt.hust.edu.vn/DisplayWeb/DisplayBaiViet?baiviet=43411)** 3. Qui định ngoại ngữ áp dụng từ khóa K65: **xem tại đâ"
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 0.49495006073335623,
+          "top_results": [
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 3 | [Cấp giấy tờ cho sinh viên (Giấy giới thiệu, giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt...)](03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-g"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\14-cam-nang-sinh-vien-va-cam-nang-phong-tu-van.md",
+              "preview": "Từ năm 2015, Nhà trường đã biên soạn cuốn “Sổ tay sinh viên” để giúp cho SV có được những thông tin và chỉ dẫn cơ bản, gần gũi nhất với việc học tập và rèn luyện tại Trường. Sổ tay"
+            },
+            {
+              "score": 0.485,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "Đặt câu hỏi **tại đây** (https://ctsv.hust.edu.vn/#/viet-giay/1) #### Mục 4 Kết quả học tập các kỳ (GPA, CPA, tín chỉ nợ...) Tăng/giảm mức cảnh báo học tập **[Kết quả HT]** hung.tr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chunker": "recursive_500",
+      "retriever": "rerank",
+      "chunk_count": 261,
+      "avg_chunk_length": 385.1,
+      "precision_at_k": 0.467,
+      "avg_score": 0.573,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 0.6728553781774873,
+          "top_results": [
+            {
+              "score": 0.784,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 21 | [Hướng dẫn triển khai các vấn đề liên quan đến CLB Sinh viên](21-huong-dan-trien-khai-cac-van-de-lien-quan-den-clb-sinh-vien.md) | 2023-12-29 13:53:17 |"
+            },
+            {
+              "score": 0.631,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 19 | [Hướng dẫn chụp, công chứng và rút học bạ trong hồ sơ sinh viên](19-huong-dan-chup-cong-chung-va-rut-hoc-ba-trong-ho-so-sinh-vien.md) | 2023-07-05 15:57:45 | | 20 | [Mức học"
+            },
+            {
+              "score": 0.603,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "- Chi tiết về các chương trình học bổng tài trợ sinh viên xem **TẠI ĐÂY.** (https://sv-ctt.hust.edu.vn/#/hoc-bong) ### 4. Học bổng trao đổi sinh viên quốc tế"
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 0.5891494791529167,
+          "top_results": [
+            {
+              "score": 0.609,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "- (2) Tham gia hoạt động xây dựng kế hoạch bản thân: https://ctsv.hust.edu.vn/#/hoat-dong/9452/xay-dung-ke-hoach-hoc-tap-va-chi-tieu-cho-hoc-ky-2023-2 - (3) Tham gia hoạt động rèn "
+            },
+            {
+              "score": 0.586,
+              "source": "data\\k3_university\\course-registration.md",
+              "preview": "--- doc_id: k3-course-registration title: Đăng ký học phần audience: student # student | faculty | staff | all department: academic-affairs language: vi source_url: https://example"
+            },
+            {
+              "score": 0.572,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "*+6 điểm từ tiêu chí tuân thủ kỷ luật học tập.* Để được điểm này chỉ cần bạn không bị cấm thi các học phần trong học kỳ. +* 6 điểm* từ làm bài kiểm tra quy chế. Các bạn xem chi tiế"
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.0,
+          "avg_score": 0.5469321278789112,
+          "top_results": [
+            {
+              "score": 0.603,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "3. Biểu mẫu đính chính thông tin bằng cấp: **Xem tại đây. ** (https://ctt.hust.edu.vn/DisplayWeb/DisplayBaiViet?baiviet=93) 4. Biểu mẫu xin thôi học, nghỉ học dài hạn, chuyển ngành"
+            },
+            {
+              "score": 0.538,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "6. Biểu mẫu về xét nhận đồ án, khóa luận tốt nghiệp: **Xem tại đây. ** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\05-huong-dan-su-dung-phan-mem-office-365-va-hoc-truc-tuyen-su-dung-he-thong-email-do-truong-c.md",
+              "preview": "Sinh viên đặc biệt lưu ý **ĐỌC KỸ CÁC HƯỚNG DẪN TẠI MỤC 5** để có thể cài đặt và sử dụng phần mềm MS TEAMS **PHỤC VỤ CHO VIỆC HỌC TẬP TRỰC TUYẾN** trong thời gian còn thực hiện giã"
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.3333333333333333,
+          "avg_score": 0.5070437194801299,
+          "top_results": [
+            {
+              "score": 0.532,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 3 | [Cấp giấy tờ cho sinh viên (Giấy giới thiệu, giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt...)](03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-g"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "hue.nguyenkim@hust.edu.vn (mailto:hue.nguyenkim@hust.edu.vn) Đơn cần nộp trực tiếp tại phòng 202A-C1, chuyên viên tiếp nhận: Nguyễn Kim Huệ Đơn chuyển trường trong nước tại đây (ht"
+            },
+            {
+              "score": 0.489,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 13 | [Liên hệ, giải đáp thắc mắc (làm gì? ở đâu?)](13-lien-he-giai-dap-thac-mac-lam-gi-o-dau.md) | 2023-10-12 13:38:30 | | 14 | [Cẩm nang sinh viên và Cẩm nang Phòng tư vấn](14-c"
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 0.5469936827516172,
+          "top_results": [
+            {
+              "score": 0.598,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 3 | [Cấp giấy tờ cho sinh viên (Giấy giới thiệu, giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt...)](03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-g"
+            },
+            {
+              "score": 0.524,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\14-cam-nang-sinh-vien-va-cam-nang-phong-tu-van.md",
+              "preview": "Từ năm 2015, Nhà trường đã biên soạn cuốn “Sổ tay sinh viên” để giúp cho SV có được những thông tin và chỉ dẫn cơ bản, gần gũi nhất với việc học tập và rèn luyện tại Trường. Sổ tay"
+            },
+            {
+              "score": 0.519,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md",
+              "preview": "Tư vấn, gỡ rối và hỗ trợ giải quyết những vấn đề liên quan tới học tập, tâm lý, sức khỏe sinh sản, giới tính,... của sinh viên. Hướng dẫn, đào tạo kỹ năng sống thông qua những buổi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chunker": "structure_500",
+      "retriever": "bm25",
+      "chunk_count": 307,
+      "avg_chunk_length": 327.7,
+      "precision_at_k": 0.467,
+      "avg_score": 9.718,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 10.353648775612674,
+          "top_results": [
+            {
+              "score": 11.339,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "Vw?e=hUb8b0); - Chi tiết về các chương trình học bổng tài trợ sinh viên xem **TẠI ĐÂY.** (https://sv-ctt.hust.edu.vn/#/hoc-bong)"
+            },
+            {
+              "score": 10.709,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "## Danh mục tài liệu | STT | Tài liệu | Ngày đăng trên nguồn | |---:|---|---| | 1 | [Học bổng](01-hoc-bong.md) | 2024-06-13 11:12:13 | | 2 | [Hướng dẫn Hồ sơ chế độ chính sách miễn"
+            },
+            {
+              "score": 9.012,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "-ho-tro-tu-van-tam-ly-sinh-vien-giai-doan-2021-2025.md) | 2023-06-03 11:35:29 | | 17 | [PHÒNG TƯ VẤN HỌC TẬP & TÂM LÝ SINH VIÊN](17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md) | 2023"
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 10.464833778692636,
+          "top_results": [
+            {
+              "score": 12.725,
+              "source": "data\\k3_university\\course-registration.md",
+              "preview": "--- doc_id: k3-course-registration title: Đăng ký học phần audience: student # student | faculty | staff | all department: academic-affairs language: vi source_url: https://example"
+            },
+            {
+              "score": 10.492,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "-dong/9578/ren-luyen-ky-nang-tu-hoc-ky-2023-2 (https://ctsv.hust.edu.vn/#/hoat-dong/9578/ren-luyen-ky-nang-tu-hoc-ky-2023-2) Một học kỳ các đơn vị trong Nhà trường tổ chức trung bì"
+            },
+            {
+              "score": 8.178,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "y trong học kỳ 1 năm học 2023-2024](20-muc-hoc-phi-cac-chuong-trinh-dao-tao-chinh-quy-trong-hoc-ky-1-nam-hoc-2023-2024.md) | 2023-09-26 17:18:05 | | 21 | [Hướng dẫn triển khai các "
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.0,
+          "avg_score": 8.7934654339905,
+          "top_results": [
+            {
+              "score": 9.863,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-phi)"
+            },
+            {
+              "score": 8.473,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "### III. Giải quyết thắc mắc 1. Với công tác đào tạo: xem hướng dẫn **TẠI ĐÂY** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc"
+            },
+            {
+              "score": 8.045,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\09-huong-dan-quy-trinh-thuc-hien-mot-so-thu-tuc-thuong-gap.md",
+              "preview": "### LIÊN HỆ các thắc mắc sẽ gửi qua email theo hướng dẫn **TẠI ĐÂY** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-ph"
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.3333333333333333,
+          "avg_score": 6.353365230919822,
+          "top_results": [
+            {
+              "score": 6.957,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "## Danh mục tài liệu | STT | Tài liệu | Ngày đăng trên nguồn | |---:|---|---| | 1 | [Học bổng](01-hoc-bong.md) | 2024-06-13 11:12:13 | | 2 | [Hướng dẫn Hồ sơ chế độ chính sách miễn"
+            },
+            {
+              "score": 6.65,
+              "source": "data\\k3_university\\library-services.md",
+              "preview": "--- doc_id: k3-library-services title: Dịch vụ thư viện audience: all # student | faculty | staff | all department: library language: vi source_url: https://example.edu/thu-vien/di"
+            },
+            {
+              "score": 5.453,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md",
+              "preview": "i/sinh-vien/sinh-vien-hien-tai/bach-khoa-co-can-phong-giup-sinh-vien-bo-quen-buon-lo-ap-luc-646334.html** **Thông tin liên hệ** - Phòng 101 - C1 (Mở cửa theo lịch làm việc các ngày"
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 12.626228571903926,
+          "top_results": [
+            {
+              "score": 17.694,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "## Danh mục tài liệu | STT | Tài liệu | Ngày đăng trên nguồn | |---:|---|---| | 1 | [Học bổng](01-hoc-bong.md) | 2024-06-13 11:12:13 | | 2 | [Hướng dẫn Hồ sơ chế độ chính sách miễn"
+            },
+            {
+              "score": 10.273,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "### III. Cách thức đăng ký cấp giấy vay vốn: Sinh viên đăng nhập vào tài khoản cá nhân trên hệ thống cổng thông tin sinh viên **ctsv.hust.edu.vn (https://ctsv.hust.edu.vn/#/xin-cap"
+            },
+            {
+              "score": 9.912,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "#### Mục 6 Sửa thông tin cá nhân trên Cổng thông tin sinh viên Cấp giấy xác nhận SV Thủ tục khi bị mất thẻ sinh viên **[Hồ sơ cá nhân]** Đăng ký cấp giấy tờ hoặc sửa thông tin SV *"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chunker": "sentence_3",
+      "retriever": "bm25",
+      "chunk_count": 436,
+      "avg_chunk_length": 228.6,
+      "precision_at_k": 0.4,
+      "avg_score": 9.99,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 8.854407868268058,
+          "top_results": [
+            {
+              "score": 9.275,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 17 | [PHÒNG TƯ VẤN HỌC TẬP & TÂM LÝ SINH VIÊN](17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md) | 2023-06-03 12:01:12 | | 18 | [Hướng dẫn tìm nhà trọ](18-huong-dan-tim-nha-tro.md) | "
+            },
+            {
+              "score": 9.137,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "|---:|---|---| | 1 | [Học bổng](01-hoc-bong.md) | 2024-06-13 11:12:13 | | 2 | [Hướng dẫn Hồ sơ chế độ chính sách miễn giảm học phí, vay vốn ngân hàng](02-huong-dan-ho-so-che-do-chi"
+            },
+            {
+              "score": 8.152,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 20 | [Mức học phí các chương trình đào tạo chính quy trong học kỳ 1 năm học 2023-2024](20-muc-hoc-phi-cac-chuong-trinh-dao-tao-chinh-quy-trong-hoc-ky-1-nam-hoc-2023-2024.md) | 20"
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 12.691865380445336,
+          "top_results": [
+            {
+              "score": 19.334,
+              "source": "data\\k3_university\\course-registration.md",
+              "preview": "source_url: https://example.edu/hoc-vu/dang-ky-hoc-phan retrieved_at: 2026-08-02 document_version: \"2026.1\""
+            },
+            {
+              "score": 11.349,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "- (2) Tham gia hoạt động xây dựng kế hoạch bản thân: https://ctsv.hust.edu.vn/#/hoat-dong/9452/xay-dung-ke-hoach-hoc-tap-va-chi-tieu-cho-hoc-ky-2023-2 - (3) Tham gia hoạt động rèn "
+            },
+            {
+              "score": 7.393,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 20 | [Mức học phí các chương trình đào tạo chính quy trong học kỳ 1 năm học 2023-2024](20-muc-hoc-phi-cac-chuong-trinh-dao-tao-chinh-quy-trong-hoc-ky-1-nam-hoc-2023-2024.md) | 20"
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.0,
+          "avg_score": 8.76296646674805,
+          "top_results": [
+            {
+              "score": 9.124,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "2. Biểu mẫu học tập: **Xem tại đây. ** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-phi)"
+            },
+            {
+              "score": 8.583,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "Biểu mẫu về xét nhận đồ án, khóa luận tốt nghiệp: **Xem tại đây. ** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-phi"
+            },
+            {
+              "score": 8.583,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "Giải quyết thắc mắc 1. Với công tác đào tạo: xem hướng dẫn **TẠI ĐÂY** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-"
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.0,
+          "avg_score": 7.11084465868789,
+          "top_results": [
+            {
+              "score": 10.007,
+              "source": "data\\k3_university\\library-services.md",
+              "preview": "source_url: https://example.edu/thu-vien/dich-vu retrieved_at: 2026-08-02 document_version: \"2026.1\""
+            },
+            {
+              "score": 6.016,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md",
+              "preview": "Đồng thời, các bạn cũng sẽ có cơ hội được giúp đỡ các bạn sinh viên gặp khó khăn khác.** **Tham khảo: https://hust.edu.vn/vi/sinh-vien/sinh-vien-hien-tai/bach-khoa-co-can-phong-giu"
+            },
+            {
+              "score": 5.309,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "|---:|---|---| | 1 | [Học bổng](01-hoc-bong.md) | 2024-06-13 11:12:13 | | 2 | [Hướng dẫn Hồ sơ chế độ chính sách miễn giảm học phí, vay vốn ngân hàng](02-huong-dan-ho-so-che-do-chi"
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 12.531412524099087,
+          "top_results": [
+            {
+              "score": 16.717,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 3 | [Cấp giấy tờ cho sinh viên (Giấy giới thiệu, giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt...)](03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-g"
+            },
+            {
+              "score": 10.569,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "### III. Cách thức đăng ký cấp giấy vay vốn: Sinh viên đăng nhập vào tài khoản cá nhân trên hệ thống cổng thông tin sinh viên **ctsv.hust.edu.vn (https://ctsv.hust.edu.vn/#/xin-cap"
+            },
+            {
+              "score": 10.308,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "**[Hồ sơ cá nhân]** Đăng ký cấp giấy tờ hoặc sửa thông tin SV **tại đây** (https://sv-ctt.hust.edu.vn/#/xin-cap-giay) Thắc mắc về việc cấp giấy tờ **tại đây** (https://ctsv.hust.ed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chunker": "recursive_500",
+      "retriever": "semantic",
+      "chunk_count": 261,
+      "avg_chunk_length": 385.1,
+      "precision_at_k": 0.4,
+      "avg_score": 0.344,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 0.3852641185124715,
+          "top_results": [
+            {
+              "score": 0.438,
+              "source": "data\\rag_system_design.md",
+              "preview": "Xây dựng một hệ thống tạo văn bản tăng cường truy xuất (retrieval-augmented generation - RAG) để tìm các tài liệu nội bộ có liên quan trước khi đưa ra câu trả lời. Trợ lý nên giảm "
+            },
+            {
+              "score": 0.429,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 21 | [Hướng dẫn triển khai các vấn đề liên quan đến CLB Sinh viên](21-huong-dan-trien-khai-cac-van-de-lien-quan-den-clb-sinh-vien.md) | 2023-12-29 13:53:17 |"
+            },
+            {
+              "score": 0.289,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "# Các Quy định và Biểu mẫu thường dùng > Nguồn: [Sổ tay sinh viên HUST](https://sv-ctt.hust.edu.vn/#/so-tay-sv) > Ngày đăng trên nguồn: 2024-03-12 09:29:58 > Nhóm nội dung: Sổ tay "
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 0.3294202884038289,
+          "top_results": [
+            {
+              "score": 0.356,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md",
+              "preview": "Tư vấn, gỡ rối và hỗ trợ giải quyết những vấn đề liên quan tới học tập, tâm lý, sức khỏe sinh sản, giới tính,... của sinh viên. Hướng dẫn, đào tạo kỹ năng sống thông qua những buổi"
+            },
+            {
+              "score": 0.339,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "Tải mẫu đơn đăng ký hoãn thi tại đây (https://husteduvn.sharepoint.com/:w:/s/NguyenXuanTung_PDT/ESj7AYgEYQZMj6xjKvDg78oBTqQn48NrjGYOuZeaS89F_g?e=iGo101) #### Mục 32 #### Đăng ký th"
+            },
+            {
+              "score": 0.293,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "*+6 điểm từ tiêu chí tuân thủ kỷ luật học tập.* Để được điểm này chỉ cần bạn không bị cấm thi các học phần trong học kỳ. +* 6 điểm* từ làm bài kiểm tra quy chế. Các bạn xem chi tiế"
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.3333333333333333,
+          "avg_score": 0.3740416963895162,
+          "top_results": [
+            {
+              "score": 0.465,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\05-huong-dan-su-dung-phan-mem-office-365-va-hoc-truc-tuyen-su-dung-he-thong-email-do-truong-c.md",
+              "preview": "Sinh viên đặc biệt lưu ý **ĐỌC KỸ CÁC HƯỚNG DẪN TẠI MỤC 5** để có thể cài đặt và sử dụng phần mềm MS TEAMS **PHỤC VỤ CHO VIỆC HỌC TẬP TRỰC TUYẾN** trong thời gian còn thực hiện giã"
+            },
+            {
+              "score": 0.335,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\12-ke-hoach-dao-tao-he-dai-hoc-va-sau-dai-hoc-nam-hoc-2023-2024-va-nam-truoc.md",
+              "preview": "- Lịch đăng ký học tập: Đăng ký, điều chỉnh đăng ký các học phần trong học kỳ; đăng ký nhận đồ án/ khóa luận tốt nghiệp. - Lịch học tập: Lịch học các học kỳ chính, học kỳ hè; thời "
+            },
+            {
+              "score": 0.322,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\14-cam-nang-sinh-vien-va-cam-nang-phong-tu-van.md",
+              "preview": "Để hoàn thành tốt việc học tập tại Trường, ngoài việc nhận được sự hướng dẫn từ giảng viên, cố vấn học tập, các phòng ban chức năng và các tổ chức đoàn thể, mỗi SV phải tự trang bị"
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.0,
+          "avg_score": 0.28218477964401245,
+          "top_results": [
+            {
+              "score": 0.31,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "hue.nguyenkim@hust.edu.vn (mailto:hue.nguyenkim@hust.edu.vn) Đơn cần nộp trực tiếp tại phòng 202A-C1, chuyên viên tiếp nhận: Nguyễn Kim Huệ Đơn chuyển trường trong nước tại đây (ht"
+            },
+            {
+              "score": 0.283,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "2. Qui định ngoại ngữ áp dụng từ khóa K68: **xem tại đây (https://ctt.hust.edu.vn/DisplayWeb/DisplayBaiViet?baiviet=43411)** 3. Qui định ngoại ngữ áp dụng từ khóa K65: **xem tại đâ"
+            },
+            {
+              "score": 0.254,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "**[Thắc mắc điểm]** **Các bước cần thực hiện:** **Bước 1:** Liên hệ với giảng viên/khoa,viện qua email để biết được giảng viên đã nhập điểm lên hệ thống hay chưa. **Bước 2:** Nếu g"
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 0.34939680496851605,
+          "top_results": [
+            {
+              "score": 0.364,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\14-cam-nang-sinh-vien-va-cam-nang-phong-tu-van.md",
+              "preview": "Từ năm 2015, Nhà trường đã biên soạn cuốn “Sổ tay sinh viên” để giúp cho SV có được những thông tin và chỉ dẫn cơ bản, gần gũi nhất với việc học tập và rèn luyện tại Trường. Sổ tay"
+            },
+            {
+              "score": 0.348,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\13-lien-he-giai-dap-thac-mac-lam-gi-o-dau.md",
+              "preview": "# Liên hệ, giải đáp thắc mắc (làm gì? ở đâu?) > Nguồn: [Sổ tay sinh viên HUST](https://sv-ctt.hust.edu.vn/#/so-tay-sv) > Ngày đăng trên nguồn: 2023-10-12 13:38:30 > Nhóm nội dung: "
+            },
+            {
+              "score": 0.337,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "- **b)** Bản sao chứng thực Giấy xác nhận khuyết tật do Ủy ban nhân dân cấp xã cấp hoặc bản sao chứng thực Quyết định của Chủ tịch Ủy ban nhân dân cấp huyện về việc trợ cấp xã hội;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chunker": "structure_500",
+      "retriever": "rerank",
+      "chunk_count": 307,
+      "avg_chunk_length": 327.7,
+      "precision_at_k": 0.4,
+      "avg_score": 0.575,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 0.6634890202723338,
+          "top_results": [
+            {
+              "score": 0.733,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "anh%20QD%20to%20chuc%20thi%20Truc%20tuyen.pdf) 9. Quy định công nhận tín chỉ và chuyển đổi kết quả học phần tương đương: **Xem tại đây.** (https://ctt.hust.edu.vn/Upload/Nguyen%20Q"
+            },
+            {
+              "score": 0.647,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "y trong học kỳ 1 năm học 2023-2024](20-muc-hoc-phi-cac-chuong-trinh-dao-tao-chinh-quy-trong-hoc-ky-1-nam-hoc-2023-2024.md) | 2023-09-26 17:18:05 | | 21 | [Hướng dẫn triển khai các "
+            },
+            {
+              "score": 0.611,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "Vw?e=hUb8b0); - Chi tiết về các chương trình học bổng tài trợ sinh viên xem **TẠI ĐÂY.** (https://sv-ctt.hust.edu.vn/#/hoc-bong)"
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 0.5235595800162883,
+          "top_results": [
+            {
+              "score": 0.548,
+              "source": "data\\k3_university\\course-registration.md",
+              "preview": "--- doc_id: k3-course-registration title: Đăng ký học phần audience: student # student | faculty | staff | all department: academic-affairs language: vi source_url: https://example"
+            },
+            {
+              "score": 0.522,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "### II. Các biểu mẫu thường dùng 1. Biểu mẫu thủ tục hành chính xin xác nhận của Trường (giấy chứng nhận SV, giấy giới thiệu, giấy vay vốn ngân hàng, giấy làm thẻ xe buýt....): **X"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\05-huong-dan-su-dung-phan-mem-office-365-va-hoc-truc-tuyen-su-dung-he-thong-email-do-truong-c.md",
+              "preview": "## Nội dung Hiện tại các địa điểm trong khuôn viên giảng đường của Trường Đại học Bách khoa Hà Nội đã được phủ sóng wifi để phục vụ cho việc giảng dạy và học tập. Ngoài ra Nhà trườ"
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.0,
+          "avg_score": 0.5245211244979342,
+          "top_results": [
+            {
+              "score": 0.595,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-phi)"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\19-huong-dan-chup-cong-chung-va-rut-hoc-ba-trong-ho-so-sinh-vien.md",
+              "preview": "### 3. Rút học bạ (hồ sơ sinh viên) Sinh viên chỉ rút học bạ gốc trong các trường hợp có: (1) Quyết định thôi học hoặc (2) Quyết định nghỉ học, bảo lưu học tập do Ban Giám đốc ĐHBK"
+            },
+            {
+              "score": 0.478,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "### III. Giải quyết thắc mắc 1. Với công tác đào tạo: xem hướng dẫn **TẠI ĐÂY** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc"
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.3333333333333333,
+          "avg_score": 0.6672371754848553,
+          "top_results": [
+            {
+              "score": 0.807,
+              "source": "data\\k3_university\\library-services.md",
+              "preview": "--- doc_id: k3-library-services title: Dịch vụ thư viện audience: all # student | faculty | staff | all department: library language: vi source_url: https://example.edu/thu-vien/di"
+            },
+            {
+              "score": 0.671,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "#### Mục 20 Thắc mắc về thời khóa biểu **[Thời khóa biểu]** thu.nguyenthiha@hust.edu.vn Với SV các chương trình đào tạo hợp tác quốc tế, liên hệ chuyên viên Giang Hương: huong.gian"
+            },
+            {
+              "score": 0.525,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "## Danh mục tài liệu | STT | Tài liệu | Ngày đăng trên nguồn | |---:|---|---| | 1 | [Học bổng](01-hoc-bong.md) | 2024-06-13 11:12:13 | | 2 | [Hướng dẫn Hồ sơ chế độ chính sách miễn"
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 0.4970999119388087,
+          "top_results": [
+            {
+              "score": 0.576,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "## Danh mục tài liệu | STT | Tài liệu | Ngày đăng trên nguồn | |---:|---|---| | 1 | [Học bổng](01-hoc-bong.md) | 2024-06-13 11:12:13 | | 2 | [Hướng dẫn Hồ sơ chế độ chính sách miễn"
+            },
+            {
+              "score": 0.514,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "### 3. Học bổng tài trợ Hàng năm sinh viên ĐHBK Hà Nội nhận được khoảng từ 5-7 tỷ đồng học bổng tài trợ từ các cá nhân, tổ chức, doanh nghiệp trong và ngoài nước như: học bổng Sumi"
+            },
+            {
+              "score": 0.402,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "### II. Các biểu mẫu thường dùng 1. Biểu mẫu thủ tục hành chính xin xác nhận của Trường (giấy chứng nhận SV, giấy giới thiệu, giấy vay vốn ngân hàng, giấy làm thẻ xe buýt....): **X"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chunker": "fixed_300",
+      "retriever": "semantic",
+      "chunk_count": 409,
+      "avg_chunk_length": 293.3,
+      "precision_at_k": 0.333,
+      "avg_score": 0.305,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 0.2879852255185445,
+          "top_results": [
+            {
+              "score": 0.298,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "t_edu_vn1/ERg4NeFLkeBOu8j8SXfOHUoBBarqEtWAJHqETEODPYt5DA?e=wfLtCi)."
+            },
+            {
+              "score": 0.292,
+              "source": "data\\k3_university\\course-registration.md",
+              "preview": " ký. Khi gặp lỗi trùng lịch, sinh viên điều chỉnh lớp học phần trước thời hạn điều chỉnh được công bố. Mọi yêu cầu ngoại lệ phải được gửi qua kênh hỗ trợ học vụ chính thức."
+            },
+            {
+              "score": 0.274,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": " ĐÂY (https://husteduvn-my.sharepoint.com/:b:/g/personal/khai_tranquang_hust_edu_vn1/EaQb5XucFDpIjtckawafR2ABVFBqq5VQ4c-akklE2JjP3Q?e=ia25Rv).** ### 3. Học bổng tài trợ Hàng năm si"
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 0.2760658661524455,
+          "top_results": [
+            {
+              "score": 0.304,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\09-huong-dan-quy-trinh-thuc-hien-mot-so-thu-tuc-thuong-gap.md",
+              "preview": "ểm kỳ mới nhất để phục vụ công tác phúc tra: **Xem tại đây.** (https://ctt.hust.edu.vn/DisplayWeb/DisplayBaiViet?baiviet=34476) 4. Hướng dẫn thủ tục chuyển trường dành cho du học s"
+            },
+            {
+              "score": 0.264,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "C TẬP & TÂM LÝ SINH VIÊN](17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md) | 2023-06-03 12:01:12 | | 18 | [Hướng dẫn tìm nhà trọ](18-huong-dan-tim-nha-tro.md) | 2023-06-03 13:57:53 | |"
+            },
+            {
+              "score": 0.26,
+              "source": "data\\k3_university\\library-services.md",
+              "preview": "\" --- > Khối metadata phía trên là **template mẫu** cho K3 — thay `source_url`/`retrieved_at`/`document_version` bằng nguồn công khai thật trước khi dùng làm benchmark. # Dịch vụ t"
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.0,
+          "avg_score": 0.3644329905509949,
+          "top_results": [
+            {
+              "score": 0.393,
+              "source": "data\\python_intro.txt",
+              "preview": "n thường kết nối các mô hình embedding, vector store, và logic ứng dụng trong một cơ sở mã duy nhất. Mặc dù linh hoạt, Python vẫn có những sự đánh đổi. Nó thường chậm hơn các ngôn "
+            },
+            {
+              "score": 0.366,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "kết quê hương cho sinh viên, học viên chương trình kỹ sư chuyên sâu đặc thù có đồ án/khóa luận tốt nghiệp (ĐANT) góp phần cải tiến, nâng cao chất lượng, hiệu quả kinh doanh, sản xu"
+            },
+            {
+              "score": 0.334,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\14-cam-nang-sinh-vien-va-cam-nang-phong-tu-van.md",
+              "preview": "ác bạn SV. Để phục vụ tốt hơn nữa nhu cầu của SV trong năm học mới 2023 - 2024, Ban Công tác sinh viên đã kết hợp với các đơn vị có liên quan tiến hành chỉnh sửa cuốn “Sổ tay sinh "
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.0,
+          "avg_score": 0.29246153434117633,
+          "top_results": [
+            {
+              "score": 0.297,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "y 16/9/2021 của Ủy ban dân tộc). 14. Sinh viên là con cán bộ, công chức, viên chức, công nhân mà cha hoặc mẹ bị tai nạn lao động hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường"
+            },
+            {
+              "score": 0.291,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "gày 30/5/2017 và Quyết định số 1656/QĐ-TTg, ngày 19/11/2019 và Quyết định số 05/2022/QĐ-TTg, ngày 23/3/2022 ### I. Đối tượng được vay vốn: Sinh viên thuộc một trong các diện sau đư"
+            },
+            {
+              "score": 0.289,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\08-huong-dan-ve-bhyt-va-su-dung-the-bhyt-kham-chua-benh-nam-2024.md",
+              "preview": "từ 01/07/2024 đến 31/12/2024 (06 tháng). Số tiền phải đóng: **6 tháng x 56.700 đồng/tháng = 340.200 đồng**. - Đợt 3: Từ ngày 01/09/2024 đến ngày 20/09/2024. Thời gian tham gia bảo "
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 0.3051437934239705,
+          "top_results": [
+            {
+              "score": 0.323,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "hoa Hà Nội: **Xem tại đây.** (https://husteduvn-my.sharepoint.com/:b:/g/personal/khai_tranquang_hust_edu_vn1/ERM9j9d46etEkTa9ggjN-9EBD4I5nuozz-5hy2HLsXKB2A?e=UPFf5j) 18. Quy định v"
+            },
+            {
+              "score": 0.296,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\08-huong-dan-ve-bhyt-va-su-dung-the-bhyt-kham-chua-benh-nam-2024.md",
+              "preview": " tháng x 73.710 đồng/tháng = 221.130 đồng.** Hình thức nộp tiền: Sinh viên nộp tiền theo cú pháp **MSSV_Hovaten** vào tài khoản 12210002113656 - DAI HOC BACH KHOA HA NOI tại Ngân h"
+            },
+            {
+              "score": 0.296,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md",
+              "preview": " hưởng bởi kết quả học tập hoặc có kết quả rèn luyện kém. - Sinh viên có dấu hiệu bệnh lý, hoặc “chủ động” nhờ trợ giúp tâm lý. - Phụ huynh và những người liên quan. **Đến với Phòn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chunker": "fixed_300",
+      "retriever": "hybrid",
+      "chunk_count": 409,
+      "avg_chunk_length": 293.3,
+      "precision_at_k": 0.333,
+      "avg_score": 0.541,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 0.5863695593483863,
+          "top_results": [
+            {
+              "score": 0.759,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md",
+              "preview": "vướng mắc, lo âu trong cuộc sống, những khó khăn trong học tập. Đồng thời, các bạn cũng sẽ có cơ hội được giúp đỡ các bạn sinh viên gặp khó khăn khác.** **Tham khảo: https://hust.e"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": " viên xem **TẠI ĐÂY** (https://husteduvn-my.sharepoint.com/:b:/g/personal/khai_tranquang_hust_edu_vn1/EbEKhfFyCe9CvHP86a1I098BVsIOPCj_oUIwYXEZoZx5Vw?e=hUb8b0); - Chi tiết về các ch"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "t_edu_vn1/ERg4NeFLkeBOu8j8SXfOHUoBBarqEtWAJHqETEODPYt5DA?e=wfLtCi)."
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 0.5444447606319912,
+          "top_results": [
+            {
+              "score": 0.633,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "ctsv.hust.edu.vn/#/hoat-dong/9578/ren-luyen-ky-nang-tu-hoc-ky-2023-2) Một học kỳ các đơn vị trong Nhà trường tổ chức trung bình **300 hoạt động khác nhau. **Do đó, bạn hoàn toàn có"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\k3_university\\course-registration.md",
+              "preview": "--- doc_id: k3-course-registration title: Đăng ký học phần audience: student # student | faculty | staff | all department: academic-affairs language: vi source_url: https://example"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\09-huong-dan-quy-trinh-thuc-hien-mot-so-thu-tuc-thuong-gap.md",
+              "preview": "ểm kỳ mới nhất để phục vụ công tác phúc tra: **Xem tại đây.** (https://ctt.hust.edu.vn/DisplayWeb/DisplayBaiViet?baiviet=34476) 4. Hướng dẫn thủ tục chuyển trường dành cho du học s"
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.0,
+          "avg_score": 0.48879222817069085,
+          "top_results": [
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "u-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-phi) ### III. Giải quyết thắc mắc 1. Với công tác đào tạo: xem hướng dẫn **TẠI ĐÂY** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/hu"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\python_intro.txt",
+              "preview": "n thường kết nối các mô hình embedding, vector store, và logic ứng dụng trong một cơ sở mã duy nhất. Mặc dù linh hoạt, Python vẫn có những sự đánh đổi. Nó thường chậm hơn các ngôn "
+            },
+            {
+              "score": 0.466,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "kết quê hương cho sinh viên, học viên chương trình kỹ sư chuyên sâu đặc thù có đồ án/khóa luận tốt nghiệp (ĐANT) góp phần cải tiến, nâng cao chất lượng, hiệu quả kinh doanh, sản xu"
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.3333333333333333,
+          "avg_score": 0.5973826091120779,
+          "top_results": [
+            {
+              "score": 0.792,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md",
+              "preview": "vướng mắc, lo âu trong cuộc sống, những khó khăn trong học tập. Đồng thời, các bạn cũng sẽ có cơ hội được giúp đỡ các bạn sinh viên gặp khó khăn khác.** **Tham khảo: https://hust.e"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "y giới thiệu, giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt...)](03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-giay-vay-von-ngan-hang-giay-lam.md) | "
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "y 16/9/2021 của Ủy ban dân tộc). 14. Sinh viên là con cán bộ, công chức, viên chức, công nhân mà cha hoặc mẹ bị tai nạn lao động hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường"
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 0.4864825231013998,
+          "top_results": [
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "y giới thiệu, giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt...)](03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-giay-vay-von-ngan-hang-giay-lam.md) | "
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "hoa Hà Nội: **Xem tại đây.** (https://husteduvn-my.sharepoint.com/:b:/g/personal/khai_tranquang_hust_edu_vn1/ERM9j9d46etEkTa9ggjN-9EBD4I5nuozz-5hy2HLsXKB2A?e=UPFf5j) 18. Quy định v"
+            },
+            {
+              "score": 0.459,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\08-huong-dan-ve-bhyt-va-su-dung-the-bhyt-kham-chua-benh-nam-2024.md",
+              "preview": " tháng x 73.710 đồng/tháng = 221.130 đồng.** Hình thức nộp tiền: Sinh viên nộp tiền theo cú pháp **MSSV_Hovaten** vào tài khoản 12210002113656 - DAI HOC BACH KHOA HA NOI tại Ngân h"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chunker": "fixed_300",
+      "retriever": "rerank",
+      "chunk_count": 409,
+      "avg_chunk_length": 293.3,
+      "precision_at_k": 0.333,
+      "avg_score": 0.602,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 0.63597876343921,
+          "top_results": [
+            {
+              "score": 0.796,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md",
+              "preview": "vướng mắc, lo âu trong cuộc sống, những khó khăn trong học tập. Đồng thời, các bạn cũng sẽ có cơ hội được giúp đỡ các bạn sinh viên gặp khó khăn khác.** **Tham khảo: https://hust.e"
+            },
+            {
+              "score": 0.579,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": " viên xem **TẠI ĐÂY** (https://husteduvn-my.sharepoint.com/:b:/g/personal/khai_tranquang_hust_edu_vn1/EbEKhfFyCe9CvHP86a1I098BVsIOPCj_oUIwYXEZoZx5Vw?e=hUb8b0); - Chi tiết về các ch"
+            },
+            {
+              "score": 0.533,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "(19-huong-dan-chup-cong-chung-va-rut-hoc-ba-trong-ho-so-sinh-vien.md) | 2023-07-05 15:57:45 | | 20 | [Mức học phí các chương trình đào tạo chính quy trong học kỳ 1 năm học 2023-202"
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 0.6072521342935725,
+          "top_results": [
+            {
+              "score": 0.666,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "ctsv.hust.edu.vn/#/hoat-dong/9578/ren-luyen-ky-nang-tu-hoc-ky-2023-2) Một học kỳ các đơn vị trong Nhà trường tổ chức trung bình **300 hoạt động khác nhau. **Do đó, bạn hoàn toàn có"
+            },
+            {
+              "score": 0.579,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "C TẬP & TÂM LÝ SINH VIÊN](17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md) | 2023-06-03 12:01:12 | | 18 | [Hướng dẫn tìm nhà trọ](18-huong-dan-tim-nha-tro.md) | 2023-06-03 13:57:53 | |"
+            },
+            {
+              "score": 0.577,
+              "source": "data\\k3_university\\course-registration.md",
+              "preview": "--- doc_id: k3-course-registration title: Đăng ký học phần audience: student # student | faculty | staff | all department: academic-affairs language: vi source_url: https://example"
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.0,
+          "avg_score": 0.5691196628642667,
+          "top_results": [
+            {
+              "score": 0.66,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\13-lien-he-giai-dap-thac-mac-lam-gi-o-dau.md",
+              "preview": "nh và giải đáp các thắc mắc với Phòng Đào tạo sinh viên xem **TẠI ĐÂY.** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-ho"
+            },
+            {
+              "score": 0.548,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "u-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-phi) ### III. Giải quyết thắc mắc 1. Với công tác đào tạo: xem hướng dẫn **TẠI ĐÂY** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/hu"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\python_intro.txt",
+              "preview": "n thường kết nối các mô hình embedding, vector store, và logic ứng dụng trong một cơ sở mã duy nhất. Mặc dù linh hoạt, Python vẫn có những sự đánh đổi. Nó thường chậm hơn các ngôn "
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.3333333333333333,
+          "avg_score": 0.6596900804760661,
+          "top_results": [
+            {
+              "score": 0.81,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md",
+              "preview": "vướng mắc, lo âu trong cuộc sống, những khó khăn trong học tập. Đồng thời, các bạn cũng sẽ có cơ hội được giúp đỡ các bạn sinh viên gặp khó khăn khác.** **Tham khảo: https://hust.e"
+            },
+            {
+              "score": 0.63,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": " mẹ hoặc chỉ mồ côi cha hoặc mẹ nhưng người còn lại không có khả năng lao động. 2. Sinh viên là thành viên của hộ nghèo, cận nghèo theo quy định của Nhà nước. 3. Sinh viên là thành"
+            },
+            {
+              "score": 0.539,
+              "source": "data\\k3_university\\library-services.md",
+              "preview": "--- doc_id: k3-library-services title: Dịch vụ thư viện audience: all # student | faculty | staff | all department: library language: vi source_url: https://example.edu/thu-vien/di"
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 0.5357612492669184,
+          "top_results": [
+            {
+              "score": 0.611,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "y giới thiệu, giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt...)](03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-giay-vay-von-ngan-hang-giay-lam.md) | "
+            },
+            {
+              "score": 0.519,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "hoa Hà Nội: **Xem tại đây.** (https://husteduvn-my.sharepoint.com/:b:/g/personal/khai_tranquang_hust_edu_vn1/ERM9j9d46etEkTa9ggjN-9EBD4I5nuozz-5hy2HLsXKB2A?e=UPFf5j) 18. Quy định v"
+            },
+            {
+              "score": 0.477,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\08-huong-dan-ve-bhyt-va-su-dung-the-bhyt-kham-chua-benh-nam-2024.md",
+              "preview": " tháng x 73.710 đồng/tháng = 221.130 đồng.** Hình thức nộp tiền: Sinh viên nộp tiền theo cú pháp **MSSV_Hovaten** vào tài khoản 12210002113656 - DAI HOC BACH KHOA HA NOI tại Ngân h"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chunker": "sentence_3",
+      "retriever": "semantic",
+      "chunk_count": 436,
+      "avg_chunk_length": 228.6,
+      "precision_at_k": 0.333,
+      "avg_score": 0.316,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 0.26692601044972736,
+          "top_results": [
+            {
+              "score": 0.269,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\13-lien-he-giai-dap-thac-mac-lam-gi-o-dau.md",
+              "preview": "- Tiếp nhận đăng ký tổ chức các hoạt động ngoại khóa cho sinh viên trong khuôn viên Trường. - Tiếp nhận và hỗ trợ sinh viên làm thủ tục thành lập câu lạc bộ sinh viên. - Chỉnh sửa "
+            },
+            {
+              "score": 0.266,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "Trường hợp có thắc mắc về thủ tục tại Ban Đào tạo sẽ liên hệ theo qua email: hue.nguyenkim@hust.edu.vn 2. Nộp đơn tại Trung tâm Đào tạo liên tục (khu nhà TC) để được tư vấn và xếp "
+            },
+            {
+              "score": 0.266,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "Bạn tham khảo cách khiếu nại** tại đây! (https://www.facebook.com/ictsv.hust/photos/a.353908892774864/382030623296024/)** **Với các Minh chứng liên quan đến kết quả học tập, Ban CT"
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 0.31895800431569415,
+          "top_results": [
+            {
+              "score": 0.371,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "Chi tiết Quy định về việc xét cấp học bổng KKHT (áp dụng từ năm học 2023-2024) sinh viên xem **TẠI ĐÂY.** (https://husteduvn-my.sharepoint.com/:b:/g/personal/khai_tranquang_hust_ed"
+            },
+            {
+              "score": 0.305,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\05-huong-dan-su-dung-phan-mem-office-365-va-hoc-truc-tuyen-su-dung-he-thong-email-do-truong-c.md",
+              "preview": "> Nhóm nội dung: Sổ tay SV ## Nội dung Hiện tại các địa điểm trong khuôn viên giảng đường của Trường Đại học Bách khoa Hà Nội đã được phủ sóng wifi để phục vụ cho việc giảng dạy và"
+            },
+            {
+              "score": 0.281,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "Đối tượng được nhận hỗ trợ chi phí học tập: **Sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo theo quy định của Nhà nước **2. Mức hỗ trợ chi phí học tập: **Bằng 60"
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.3333333333333333,
+          "avg_score": 0.3275408943494161,
+          "top_results": [
+            {
+              "score": 0.337,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\20-muc-hoc-phi-cac-chuong-trinh-dao-tao-chinh-quy-trong-hoc-ky-1-nam-hoc-2023-2024.md",
+              "preview": "**Chế độ miễn, giảm học phí** Chế độ miễn, giảm học phí được thực hiện theo Quy định ban hành kèm theo Quyết định số 5776/QĐ-ĐHBK ngày 18 tháng 7 năm 2023 của Giám đốc Đại học Bách"
+            },
+            {
+              "score": 0.325,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "Chuyên viên Giang Hương (316-C1)"
+            },
+            {
+              "score": 0.321,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "huong.nguyenthi1@hust.edu.vn Tải tại đây (https://husteduvn.sharepoint.com/:w:/s/NguyenXuanTung_PDT/EdDCJnCWLlRHtEafh2p11aoBLB1ev58zMt1tmTuk9x9Nfg?e=1efidj) #### Mục 14"
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.0,
+          "avg_score": 0.3201664884885152,
+          "top_results": [
+            {
+              "score": 0.342,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "Bạn tham khảo cách khiếu nại** tại đây! (https://www.facebook.com/ictsv.hust/photos/a.353908892774864/382030623296024/)** **Với các Minh chứng liên quan đến kết quả học tập, Ban CT"
+            },
+            {
+              "score": 0.315,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "Sửa thông tin cá nhân trên Cổng thông tin sinh viên Cấp giấy xác nhận SV Thủ tục khi bị mất thẻ sinh viên"
+            },
+            {
+              "score": 0.303,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\13-lien-he-giai-dap-thac-mac-lam-gi-o-dau.md",
+              "preview": "- Tư vấn hỗ trợ về việc thực hiện chế độ chính sách, học bổng, việc làm cho sinh viên."
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 0.3447760542233785,
+          "top_results": [
+            {
+              "score": 0.354,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "Đối tượng được nhận hỗ trợ chi phí học tập: **Sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo theo quy định của Nhà nước **2. Mức hỗ trợ chi phí học tập: **Bằng 60"
+            },
+            {
+              "score": 0.353,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\08-huong-dan-ve-bhyt-va-su-dung-the-bhyt-kham-chua-benh-nam-2024.md",
+              "preview": "- **Bước 3:** Thực hiện xét nghiệm, cận lâm sàng (nếu có) - **Bước 4:** Trở lại Phòng khám ban đầu (sau khi có kết quả cận lâm sàng) - **Bước 5:** Đợi Bác sỹ kê đơn thuốc và ra bàn"
+            },
+            {
+              "score": 0.327,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\17-phong-tu-van-hoc-tap-tam-ly-sinh-vien.md",
+              "preview": "> Nhóm nội dung: Sổ tay SV ## Nội dung **Phòng hỗ trợ, tư vấn học tập và tâm lý sinh viên là đơn vị thuộc Phòng CTSV được thành lập ngày 30-06- 2021 theo Quyết định số 1598 của Hiệ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chunker": "sentence_3",
+      "retriever": "rerank",
+      "chunk_count": 436,
+      "avg_chunk_length": 228.6,
+      "precision_at_k": 0.333,
+      "avg_score": 0.587,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 0.6909927855406478,
+          "top_results": [
+            {
+              "score": 0.778,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 14 | [Cẩm nang sinh viên và Cẩm nang Phòng tư vấn](14-cam-nang-sinh-vien-va-cam-nang-phong-tu-van.md) | 2024-03-26 17:19:49 | | 15 | [Hướng dẫn tổ chức đánh giá kết quả rèn luyện"
+            },
+            {
+              "score": 0.67,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 3 | [Cấp giấy tờ cho sinh viên (Giấy giới thiệu, giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt...)](03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-g"
+            },
+            {
+              "score": 0.626,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "2. Biểu mẫu học tập: **Xem tại đây. ** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-phi)"
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 0.5329553762052937,
+          "top_results": [
+            {
+              "score": 0.688,
+              "source": "data\\k3_university\\course-registration.md",
+              "preview": "source_url: https://example.edu/hoc-vu/dang-ky-hoc-phan retrieved_at: 2026-08-02 document_version: \"2026.1\""
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "Chi tiết Quy định về việc xét cấp học bổng KKHT (áp dụng từ năm học 2023-2024) sinh viên xem **TẠI ĐÂY.** (https://husteduvn-my.sharepoint.com/:b:/g/personal/khai_tranquang_hust_ed"
+            },
+            {
+              "score": 0.411,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\05-huong-dan-su-dung-phan-mem-office-365-va-hoc-truc-tuyen-su-dung-he-thong-email-do-truong-c.md",
+              "preview": "> Nhóm nội dung: Sổ tay SV ## Nội dung Hiện tại các địa điểm trong khuôn viên giảng đường của Trường Đại học Bách khoa Hà Nội đã được phủ sóng wifi để phục vụ cho việc giảng dạy và"
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.0,
+          "avg_score": 0.5500636032233531,
+          "top_results": [
+            {
+              "score": 0.569,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "- (2) Tham gia hoạt động xây dựng kế hoạch bản thân: https://ctsv.hust.edu.vn/#/hoat-dong/9452/xay-dung-ke-hoach-hoc-tap-va-chi-tieu-cho-hoc-ky-2023-2 - (3) Tham gia hoạt động rèn "
+            },
+            {
+              "score": 0.561,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "2. Biểu mẫu học tập: **Xem tại đây. ** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-phi)"
+            },
+            {
+              "score": 0.52,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "Biểu mẫu về xét nhận đồ án, khóa luận tốt nghiệp: **Xem tại đây. ** (https://sv-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-phi"
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.0,
+          "avg_score": 0.586921729660635,
+          "top_results": [
+            {
+              "score": 0.636,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "3. Sinh viên là thành viên của hộ gia đình có mức thu nhập bình quân đầu người tối đa bằng 150% mức thu nhập bình quân đầu người của hộ gia đình nghèo theo quy định của Nhà nước. 4"
+            },
+            {
+              "score": 0.625,
+              "source": "data\\k3_university\\library-services.md",
+              "preview": "source_url: https://example.edu/thu-vien/dich-vu retrieved_at: 2026-08-02 document_version: \"2026.1\""
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "Bạn tham khảo cách khiếu nại** tại đây! (https://www.facebook.com/ictsv.hust/photos/a.353908892774864/382030623296024/)** **Với các Minh chứng liên quan đến kết quả học tập, Ban CT"
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 0.5747128462694994,
+          "top_results": [
+            {
+              "score": 0.635,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\19-huong-dan-chup-cong-chung-va-rut-hoc-ba-trong-ho-so-sinh-vien.md",
+              "preview": "- B1: Bạn đăng ký công chứng tại đây: https://ctsv.hust.edu.vn/#/viet-giay/30_HOSO (https://ctsv.hust.edu.vn/#/viet-giay/30_HOSO), đăng nhập bằng tài khoản email trường cấp. - B2: "
+            },
+            {
+              "score": 0.568,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "| 3 | [Cấp giấy tờ cho sinh viên (Giấy giới thiệu, giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt...)](03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-g"
+            },
+            {
+              "score": 0.521,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "Đối tượng được nhận hỗ trợ chi phí học tập: **Sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo theo quy định của Nhà nước **2. Mức hỗ trợ chi phí học tập: **Bằng 60"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chunker": "structure_500",
+      "retriever": "hybrid",
+      "chunk_count": 307,
+      "avg_chunk_length": 327.7,
+      "precision_at_k": 0.333,
+      "avg_score": 0.507,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 1.0,
+          "avg_score": 0.5647023131650662,
+          "top_results": [
+            {
+              "score": 0.694,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "anh%20QD%20to%20chuc%20thi%20Truc%20tuyen.pdf) 9. Quy định công nhận tín chỉ và chuyển đổi kết quả học phần tương đương: **Xem tại đây.** (https://ctt.hust.edu.vn/Upload/Nguyen%20Q"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "Vw?e=hUb8b0); - Chi tiết về các chương trình học bổng tài trợ sinh viên xem **TẠI ĐÂY.** (https://sv-ctt.hust.edu.vn/#/hoc-bong)"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-giay-vay-von-ngan-hang-giay-lam.md",
+              "preview": "### 1. Các thức đăng ký Sinh viên cần cấp các loại giấy tờ như: Giấy chứng nhận sinh viên, giấy giới thiệu sinh viện, giấy vay vốn ngân hàng, giấy ưu đãi trong giáo dục,... trên ứn"
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 0.47075142315126933,
+          "top_results": [
+            {
+              "score": 0.5,
+              "source": "data\\k3_university\\course-registration.md",
+              "preview": "--- doc_id: k3-course-registration title: Đăng ký học phần audience: student # student | faculty | staff | all department: academic-affairs language: vi source_url: https://example"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\05-huong-dan-su-dung-phan-mem-office-365-va-hoc-truc-tuyen-su-dung-he-thong-email-do-truong-c.md",
+              "preview": "## Nội dung Hiện tại các địa điểm trong khuôn viên giảng đường của Trường Đại học Bách khoa Hà Nội đã được phủ sóng wifi để phục vụ cho việc giảng dạy và học tập. Ngoài ra Nhà trườ"
+            },
+            {
+              "score": 0.412,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\15-huong-dan-to-chuc-danh-gia-ket-qua-ren-luyen.md",
+              "preview": "-dong/9578/ren-luyen-ky-nang-tu-hoc-ky-2023-2 (https://ctsv.hust.edu.vn/#/hoat-dong/9578/ren-luyen-ky-nang-tu-hoc-ky-2023-2) Một học kỳ các đơn vị trong Nhà trường tổ chức trung bì"
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.0,
+          "avg_score": 0.48441046371675406,
+          "top_results": [
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-hoc-tap-hoc-phi)"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\19-huong-dan-chup-cong-chung-va-rut-hoc-ba-trong-ho-so-sinh-vien.md",
+              "preview": "### 3. Rút học bạ (hồ sơ sinh viên) Sinh viên chỉ rút học bạ gốc trong các trường hợp có: (1) Quyết định thôi học hoặc (2) Quyết định nghỉ học, bảo lưu học tập do Ban Giám đốc ĐHBK"
+            },
+            {
+              "score": 0.453,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\11-huong-dan-lam-the-gui-xe-trong-truong-va-lam-ve-xe-buyt-thang.md",
+              "preview": "# Hướng dẫn làm Thẻ gửi xe trong Trường và làm vé xe buýt tháng > Nguồn: [Sổ tay sinh viên HUST](https://sv-ctt.hust.edu.vn/#/so-tay-sv) > Ngày đăng trên nguồn: 2022-08-25 10:33:15"
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.0,
+          "avg_score": 0.5470348507906795,
+          "top_results": [
+            {
+              "score": 0.641,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "#### Mục 20 Thắc mắc về thời khóa biểu **[Thời khóa biểu]** thu.nguyenthiha@hust.edu.vn Với SV các chương trình đào tạo hợp tác quốc tế, liên hệ chuyên viên Giang Hương: huong.gian"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "## Danh mục tài liệu | STT | Tài liệu | Ngày đăng trên nguồn | |---:|---|---| | 1 | [Học bổng](01-hoc-bong.md) | 2024-06-13 11:12:13 | | 2 | [Hướng dẫn Hồ sơ chế độ chính sách miễn"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "#### Mục 3 Thắc mắc về miễn giảm học phí Đặt câu hỏi **tại đây** (https://ctsv.hust.edu.vn/#/viet-giay/1)"
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 0.6666666666666666,
+          "avg_score": 0.4672789517381017,
+          "top_results": [
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\00-INDEX.md",
+              "preview": "## Danh mục tài liệu | STT | Tài liệu | Ngày đăng trên nguồn | |---:|---|---| | 1 | [Học bổng](01-hoc-bong.md) | 2024-06-13 11:12:13 | | 2 | [Hướng dẫn Hồ sơ chế độ chính sách miễn"
+            },
+            {
+              "score": 0.5,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "### 3. Học bổng tài trợ Hàng năm sinh viên ĐHBK Hà Nội nhận được khoảng từ 5-7 tỷ đồng học bổng tài trợ từ các cá nhân, tổ chức, doanh nghiệp trong và ngoài nước như: học bổng Sumi"
+            },
+            {
+              "score": 0.402,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "### II. Các biểu mẫu thường dùng 1. Biểu mẫu thủ tục hành chính xin xác nhận của Trường (giấy chứng nhận SV, giấy giới thiệu, giấy vay vốn ngân hàng, giấy làm thẻ xe buýt....): **X"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chunker": "structure_500",
+      "retriever": "semantic",
+      "chunk_count": 307,
+      "avg_chunk_length": 327.7,
+      "precision_at_k": 0.133,
+      "avg_score": 0.319,
+      "queries": [
+        {
+          "query": "hoc bong sinh vien",
+          "precision_at_k": 0.3333333333333333,
+          "avg_score": 0.29350276788075763,
+          "top_results": [
+            {
+              "score": 0.31,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\03-cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-giay-vay-von-ngan-hang-giay-lam.md",
+              "preview": "### 1. Các thức đăng ký Sinh viên cần cấp các loại giấy tờ như: Giấy chứng nhận sinh viên, giấy giới thiệu sinh viện, giấy vay vốn ngân hàng, giấy ưu đãi trong giáo dục,... trên ứn"
+            },
+            {
+              "score": 0.289,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\11-huong-dan-lam-the-gui-xe-trong-truong-va-lam-ve-xe-buyt-thang.md",
+              "preview": "uyết định số 44/2017/QĐ-UBND ngày 15/12/2017 của UBND Thành phố Hà Nội áp dụng đối với khu vực trường học. Cụ thể như sau: **Loại xe** **Thường xuyên (đồng/xe/lượt)** **Vãng lai** "
+            },
+            {
+              "score": 0.282,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "#### Mục 24 Tiếp nhận trở lại học sau khi nghỉ dài hạn (Thời gian tiếp nhận đơn là trước 3-4 tuần so với thời điểm bắt đầu học kỳ) **[Tiếp nhận học]** hue.nguyenkim@hust.edu.vn (ma"
+            }
+          ]
+        },
+        {
+          "query": "dang ky mon hoc",
+          "precision_at_k": 0.0,
+          "avg_score": 0.3223418593406677,
+          "top_results": [
+            {
+              "score": 0.373,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\05-huong-dan-su-dung-phan-mem-office-365-va-hoc-truc-tuyen-su-dung-he-thong-email-do-truong-c.md",
+              "preview": "## Nội dung Hiện tại các địa điểm trong khuôn viên giảng đường của Trường Đại học Bách khoa Hà Nội đã được phủ sóng wifi để phục vụ cho việc giảng dạy và học tập. Ngoài ra Nhà trườ"
+            },
+            {
+              "score": 0.301,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "### A. Miễn, giảm học phí Việc miễn giảm học phí cho sinh viên diện chế độ chính sách (CĐCS) từ năm học 2021-2022 được thực hiện theo Nghị định 81/2021/NĐ-CP, ngày 27/8/2021 của Ch"
+            },
+            {
+              "score": 0.293,
+              "source": "data\\chunking_experiment_report.md",
+              "preview": "## Chia nhỏ đệ quy (Recursive Chunking) Chia nhỏ đệ quy mang lại sự cân bằng tốt nhất trong thử nghiệm. Đầu tiên nó cố gắng cắt ở các ranh giới cấu trúc lớn hơn như đoạn văn, sau đ"
+            }
+          ]
+        },
+        {
+          "query": "hoc phi",
+          "precision_at_k": 0.0,
+          "avg_score": 0.31272939840952557,
+          "top_results": [
+            {
+              "score": 0.342,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\19-huong-dan-chup-cong-chung-va-rut-hoc-ba-trong-ho-so-sinh-vien.md",
+              "preview": "### 3. Rút học bạ (hồ sơ sinh viên) Sinh viên chỉ rút học bạ gốc trong các trường hợp có: (1) Quyết định thôi học hoặc (2) Quyết định nghỉ học, bảo lưu học tập do Ban Giám đốc ĐHBK"
+            },
+            {
+              "score": 0.31,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\11-huong-dan-lam-the-gui-xe-trong-truong-va-lam-ve-xe-buyt-thang.md",
+              "preview": "# Hướng dẫn làm Thẻ gửi xe trong Trường và làm vé xe buýt tháng > Nguồn: [Sổ tay sinh viên HUST](https://sv-ctt.hust.edu.vn/#/so-tay-sv) > Ngày đăng trên nguồn: 2022-08-25 10:33:15"
+            },
+            {
+              "score": 0.287,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\13-lien-he-giai-dap-thac-mac-lam-gi-o-dau.md",
+              "preview": "#### 1. Thông tin liên hệ: - Địa chỉ: Phòng 101 – 102 – 103 – 104 -104 nhà C1 - Điện thoại: 024.3869.2896 (Phòng 102 nhà C1); 024.3869.3108 (Phòng 103-104 nhà C1) - Email: ctsv@hus"
+            }
+          ]
+        },
+        {
+          "query": "thu vien muon sach",
+          "precision_at_k": 0.0,
+          "avg_score": 0.3416022062301636,
+          "top_results": [
+            {
+              "score": 0.345,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\07-ban-dao-tao-huong-dan-thu-tuc-bieu-mau-thac-mac-ve-hoc-tap-hoc-phi.md",
+              "preview": "#### Mục 3 Thắc mắc về miễn giảm học phí Đặt câu hỏi **tại đây** (https://ctsv.hust.edu.vn/#/viet-giay/1)"
+            },
+            {
+              "score": 0.343,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\13-lien-he-giai-dap-thac-mac-lam-gi-o-dau.md",
+              "preview": "### I. Phòng Đào tạo"
+            },
+            {
+              "score": 0.337,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\02-huong-dan-ho-so-che-do-chinh-sach-mien-giam-hoc-phi-vay-von-ngan-hang.md",
+              "preview": "### II. Mức miễn giảm học phí - **a)** Đối tượng từ 1 đến 12: Được miễn học phí. - **b)** Đối tượng 13: Được giảm 70% học phí. - **c)** Đối tượng 14: Được giảm 50% học phí."
+            }
+          ]
+        },
+        {
+          "query": "cap giay to cho sinh vien",
+          "precision_at_k": 0.3333333333333333,
+          "avg_score": 0.32628806432088214,
+          "top_results": [
+            {
+              "score": 0.378,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\01-hoc-bong.md",
+              "preview": "### 3. Học bổng tài trợ Hàng năm sinh viên ĐHBK Hà Nội nhận được khoảng từ 5-7 tỷ đồng học bổng tài trợ từ các cá nhân, tổ chức, doanh nghiệp trong và ngoài nước như: học bổng Sumi"
+            },
+            {
+              "score": 0.304,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\06-cac-quy-dinh-va-bieu-mau-thuong-dung.md",
+              "preview": "### II. Các biểu mẫu thường dùng 1. Biểu mẫu thủ tục hành chính xin xác nhận của Trường (giấy chứng nhận SV, giấy giới thiệu, giấy vay vốn ngân hàng, giấy làm thẻ xe buýt....): **X"
+            },
+            {
+              "score": 0.297,
+              "source": "data\\hust-so-tay-sv-21-markdown\\hust_so_tay_sv_markdown\\11-huong-dan-lam-the-gui-xe-trong-truong-va-lam-ve-xe-buyt-thang.md",
+              "preview": "### II. Làm vé xe buýt tháng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
